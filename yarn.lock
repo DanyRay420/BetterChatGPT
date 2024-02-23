@@ -72,10 +72,10 @@
     ajv "^6.12.0"
     ajv-keywords "^3.4.1"
 
-"@dqbd/tiktoken@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@dqbd/tiktoken/-/tiktoken-1.0.2.tgz#f180afc887426343bab2adc41106d04dbd3627c0"
-  integrity sha512-AjGTBRWsMoVmVeN55NLyupyM8TNamOUBl6tj5t/leLDVup3CFGO9tVagNL1jf3GyZLkWZSTmYVbPQ/M2LEcNzw==
+"@dqbd/tiktoken@^1.0.13":
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/@dqbd/tiktoken/-/tiktoken-1.0.13.tgz#aca7f962639e30d54569b1162640fd3a32a19b01"
+  integrity sha512-941kjlHjfI97l6NuH/AwuXV4mHuVnRooDcHNSlzi98hz+4ug3wT4gJcWjSwSZHqeGAEn90lC9sFD+8a9d5Jvxg==
 
 "@electron/get@^2.0.0":
   version "2.0.2"
